@@ -1,0 +1,12 @@
+MCAL/EEPROM/EEPROM_program.d MCAL/EEPROM/EEPROM_program.o: \
+ ../MCAL/EEPROM/EEPROM_program.c ../STDLIBS/STDTYPES.h \
+ ../STDLIBS/BITMATH.h ../MCAL/EEPROM/EEPROM_interface.h \
+ ../MCAL/EEPROM/EEPROM_register.h
+
+../STDLIBS/STDTYPES.h:
+
+../STDLIBS/BITMATH.h:
+
+../MCAL/EEPROM/EEPROM_interface.h:
+
+../MCAL/EEPROM/EEPROM_register.h:
